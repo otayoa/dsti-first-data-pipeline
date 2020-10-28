@@ -1,0 +1,2 @@
+https://www.nrscotland.gov.uk/files//statistics/babies-names/19/babies-first-names-top-100-boys.csv
+https://www.nrscotland.gov.uk/files//statistics/babies-names/19/babies-first-names-top-100-girls.csv
